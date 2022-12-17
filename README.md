@@ -1,9 +1,9 @@
 # ScrapetubeSharp
 scrape youtube without the official youtube api using c#
 
-Usage:
+**Usage:**
 Here's a few short code examples.
-
+```
  YouTube youTube = new YouTube();
  List<Newtonsoft.Json.Linq.JObject> videos;
  
@@ -26,3 +26,4 @@ foreach (var item in videos)
 }
 
 
+```
