@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "okbrT6R2Rud2760ilMHhIHr6f41Cqzc/6AsZO3MFDv4F+BduR17bUpcNDeQQcqEpR3Wnh2ditXnRgFOHY7cDEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganesh\\Desktop\\ScrapetubeSharp\\ScrapetubeSharp.Test\\ScrapetubeSharp.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganesh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ganesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

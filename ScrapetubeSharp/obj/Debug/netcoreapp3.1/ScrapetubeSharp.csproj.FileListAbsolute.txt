@@ -1,0 +1,10 @@
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.AssemblyInfoInputs.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.AssemblyInfo.cs
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.csproj.AssemblyReference.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\bin\Debug\netcoreapp3.1\ScrapetubeSharp.deps.json
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\bin\Debug\netcoreapp3.1\ScrapetubeSharp.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\bin\Debug\netcoreapp3.1\ScrapetubeSharp.pdb
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp\obj\Debug\netcoreapp3.1\ScrapetubeSharp.pdb

@@ -1,0 +1,17 @@
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.exe
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.deps.json
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.runtimeconfig.json
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.runtimeconfig.dev.json
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.Test.pdb
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.csproj.AssemblyReference.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.AssemblyInfoInputs.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.AssemblyInfo.cs
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.pdb
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\obj\Debug\netcoreapp3.1\ScrapetubeSharp.Test.genruntimeconfig.cache
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.dll
+C:\Users\ganesh\Desktop\ScrapetubeSharp\ScrapetubeSharp.Test\bin\Debug\netcoreapp3.1\ScrapetubeSharp.pdb
